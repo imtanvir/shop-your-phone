@@ -65,8 +65,8 @@ const createData = dataperameter => {
                     
                     <h6 class="card-title">Others:</h6>
                     <ul class="list-group">
-                        <!-- foreEach loop  -->
-                        <li class="list-group-item"></li>
+                            <!-- foreEach loop  -->
+                            <li class="list-group-item"></li>
                     </ul>
                 </div>
                 <button type="button" class="btn btn-primary">Buy</button>
