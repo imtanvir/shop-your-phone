@@ -21,7 +21,7 @@ const createData = dataperameter => {
         }
         
         createDataDiv.classList.add('col');
-        createDataDiv.innerHTML = `
+        createDataDiv.innerHTML =`
         <div class="card">
             <img src="${phone.image}" style="width: 60%;" class="card-img-top mx-auto pt-3" alt="phone_photo">
             <div class="card-body">
