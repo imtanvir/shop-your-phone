@@ -19,7 +19,6 @@ const createData = dataperameter => {
         const detailsGetdata = detailData => {
             dataSet = detailData.mainFeatures;
         }
-        
         createDataDiv.classList.add('col');
         createDataDiv.innerHTML =`
         <div class="card">
